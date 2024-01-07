@@ -1,10 +1,5 @@
-![RevAnalyzer](https://github.com/Asterikss/ttestt/blob/visuals/RevAnalyzerImg.png?raw=true
-)
-
 <h1 align="center">
   <img src="https://github.com/Asterikss/ttestt/blob/visuals/RevAnalyzerImg.png?raw=true" alt="RevAnalyzer">
-  <!-- <a href="https://neovim.io/doc/">Documentation</a> | -->
-  <!-- <a href="https://app.element.io/#/room/#neovim:matrix.org">Chat</a> -->
 </h1>
 
 # RevAnalyzer
@@ -44,10 +39,10 @@ Create a new environment
 
 * Conda
 
-```bash
-conda create --name rev-analyzer python=3.10
-conda activate rev-analyzer
-```
+  ```bash
+  conda create --name rev-analyzer python=3.10
+  conda activate rev-analyzer
+  ```
 
 Install dependencies
 
@@ -60,5 +55,3 @@ Run the app
 ```bash
   streamlit run 1_🔬_Analyzer.py
 ```
-
-
