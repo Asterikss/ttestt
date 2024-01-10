@@ -1,6 +1,6 @@
 <h1 align="center">
   <!-- <img src="https://github.com/Asterikss/ttestt/blob/visuals/RevAnalyzerImg.png?raw=true" alt="RevAnalyzer"> -->
-  <img src="https://github.com/Asterikss/ttestt/blob/visuals/RevAnalyzer.png?raw=true" alt="RevAnalyzer">
+  <img src="https://github.com/Asterikss/ttestt/blob/visuals/RevAnalyzer2.png?raw=true" alt="RevAnalyzer">
 </h1>
 
 <!-- [![contributions](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/Asterikss/rev-analyzer/pulls) -->
